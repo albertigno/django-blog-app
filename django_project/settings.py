@@ -30,7 +30,7 @@ SECRET_KEY = config['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['72.14.191.248','www.mycoolblogapplication.xyz']
+ALLOWED_HOSTS = ['72.14.191.248','www.mycoolblogapplication.xyz','127.0.0.1','localhost']
 
 
 # Application definition
